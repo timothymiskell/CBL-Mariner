@@ -2145,6 +2145,7 @@
                 "debugedit",
                 "dejavu-fonts",
                 "distroless-packages",
+                "docker-compose",
                 "doxygen",
                 "dtc",
                 "espeak-ng",
