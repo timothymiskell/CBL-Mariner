@@ -25,6 +25,7 @@ BuildRequires:  perl-generators
 BuildRequires:  perl-Module-Install
 BuildRequires:  perl-YAML-Tiny
 BuildRequires:  curl-devel
+BuildRequires:  perl(FindBin)
 Requires:       perl(:MODULE_COMPAT_%(eval "`perl -V:version`"; echo $version))
 Requires:       curl
 
